@@ -1,0 +1,17 @@
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.exe
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.deps.json
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.runtimeconfig.json
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.runtimeconfig.dev.json
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.dll
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\bin\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.pdb
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak_bilet_rezervasyonu.Form1.resources
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.AssemblyInfo.cs
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.dll
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.pdb
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak-bilet-rezervasyonu.genruntimeconfig.cache
+C:\Users\casper\Desktop\ucak-bilet-rezervasyonu\ucak-bilet-rezervasyonu\obj\Debug\netcoreapp3.1\ucak_bilet_rezervasyonu.Properties.Resources.resources
